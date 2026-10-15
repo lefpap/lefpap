@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Lefteris
 
-<!--
-**lefpap/lefpap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend software engineer working primarily with **Java, Spring Boot, and distributed systems**.
 
-Here are some ideas to get you started:
+I enjoy designing software, understanding how complex systems work, and experimenting with new technologies. Lately, I've been exploring **AI agents, harness engineering, and AI-powered development workflows** to improve how I build software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- **Backend:** Java, Spring Boot, SQL, Apache Kafka, GraphQL
+- **Infrastructure:** Docker, Kubernetes, Linux
+- **Currently exploring:** AI Agents, LLM Applications, Developer Tooling
+
+### Connect
+
+[LinkedIn](https://gr.linkedin.com/in/lefteris-papaioannou-23090521a)
